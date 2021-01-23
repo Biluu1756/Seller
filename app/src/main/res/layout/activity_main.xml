@@ -148,6 +148,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="     All & CLEAR     "
+	    android:textColor="#000"
             android:layout_marginLeft="2dp"
             android:textSize="30dp"
             />
